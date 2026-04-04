@@ -135,25 +135,21 @@ AI tools are allowed. The bug is designed to fool them.
 
 ---
 
-## Explain (10%)
-
-Max 500 words or 2-minute video:
-1. Your analysis logic for one student — patterns detected, why.
-2. How you decided which DOSTs and in what order.
-3. How you handled the marks field.
-4. The debug bug — how you found it, what AI suggested if used.
-
----
-
 ## Deliverables
 
 1. Working FastAPI project with `requirements.txt` and setup instructions.
 2. `sample_outputs/` — all 10 students analyzed + recommended.
-3. Debug fix + explanation.
-4. README — approach, assumptions, improvements.
+3. Debug fix — corrected file.
+4. **README (in your own words, minimum 500 words)** covering:
+   - Your approach to the build task — how you analyzed student data, how you decided which DOSTs to recommend and in what order.
+   - How you handled the messy marks field and any assumptions you made.
+   - Your debug process — what the bug was, how you found it, what you tried that didn't work, what AI suggested if you used it.
+   - What you'd improve given more time.
+
+Write the README yourself. It matters.
 
 ## Rules
 
 - **Deadline:** Monday 6th April 2026, 9:00 PM IST. Late = not reviewed.
 - **AI usage:** Allowed. Encouraged.
-- **Submit:** Reply with GitHub link or zip.
+- **Submit:** Reply with GitHub link.

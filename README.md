@@ -18,8 +18,8 @@ debug/
 
 1. Working FastAPI project with `requirements.txt`
 2. `sample_outputs/` — analyze + recommend for all 10 students
-3. Debug fix + explanation
-4. README with your approach
+3. Debug fix — corrected file
+4. **README (in your own words, minimum 500 words)** — your approach, debug process, assumptions, improvements
 
 ## Deadline
 
