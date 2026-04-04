@@ -23,4 +23,4 @@ debug/
 
 ## Deadline
 
-Monday 9:00 AM IST. Reply to the assignment email with GitHub link or zip.
+Monday 6th April 2026, 9:00 PM IST. Reply to the assignment email with GitHub link or zip.

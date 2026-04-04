@@ -2,7 +2,7 @@
 
 ## The Problem
 
-Acadza is an EdTech platform for JEE/NEET students. We track every test, assignment, and practice session — questions attempted, time spent, marks scored, what was skipped, what was aborted.
+Acadza is an EdTech platform for students preparing for JEE and NEET. We track every test, assignment, and practice session — questions attempted, time spent, marks scored, what was skipped, what was aborted.
 
 Build a recommender system that takes a student's performance data across multiple sessions and recommends what to present to them next — step by step, with specific questions for each step.
 
@@ -154,7 +154,6 @@ Max 500 words or 2-minute video:
 
 ## Rules
 
-- **Deadline:** Monday {deadline_date}, 9:00 AM IST. Late = not reviewed.
+- **Deadline:** Monday 6th April 2026, 9:00 PM IST. Late = not reviewed.
 - **AI usage:** Allowed. Encouraged.
 - **Submit:** Reply with GitHub link or zip.
-- **Expected effort:** 4-6 hours.
