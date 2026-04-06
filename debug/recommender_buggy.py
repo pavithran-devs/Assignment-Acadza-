@@ -51,8 +51,8 @@ def recommend(student_matrix: np.ndarray, question_matrix: np.ndarray,
     student_profile = student_matrix[student_idx] - cohort_baseline
 
     # Normalize the adjusted profile to unit length
-    profile_norm = np.linalg.norm(cohort_baseline)
-    student_profile = cohort_baseline / (profile_norm + 1e-10)
+    profile_norm = np.linalg.norm(student_profile)
+    student_profile = student_profile / (profile_norm + 1e-10)
 
     # Compute similarity between the student's profile and all questions
     similarities = cosine_similarity(

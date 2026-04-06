@@ -1,0 +1,5 @@
+    qfastapi
+uvicorn
+pandas
+numpy
+scikit-learn
